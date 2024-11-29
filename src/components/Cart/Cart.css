@@ -1,0 +1,29 @@
+Div Elements
+.div-element {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 5%;
+    margin-bottom: 10%;
+}
+
+.div-cart {
+    padding: 15px;
+    width: 400px;
+    text-align: center;
+    
+}
+
+.div-cart h1 {
+    color: #04b5f6;
+}
+
+.div-cart i {
+    font-size: 60px;
+    padding: 10px;
+}
+
+.div-cart h3 {
+    color: #404757;
+    font-size: 25px;
+}
