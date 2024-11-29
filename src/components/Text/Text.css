@@ -1,0 +1,21 @@
+.small-heading {
+    margin-top: 50px;
+    color: #04b5f6;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.text-section h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.text-section h3 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgba(134, 136, 139, 0.87);
+}
